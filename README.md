@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24949985/README.md)
+[README.md](https://github.com/user-attachments/files/24950112/README.md)
 # 🎬 YouTubeShortsTool
 
 <div align="center">
@@ -7,6 +7,8 @@
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 
 A powerful macOS app to download, slow down, and reverse YouTube Shorts with ease.
+
+<img src="Screenshot 2026-01-29 at 5.49.31 PM.png" alt="YouTubeShortsTool Screenshot" width="600"/>
 
 </div>
 
@@ -43,6 +45,13 @@ A powerful macOS app to download, slow down, and reverse YouTube Shorts with eas
 
 - macOS 14.0 (Sonoma) or later
 - Apple Silicon or Intel Mac
+- Homebrew (for dependencies)
+
+## 🔧 Install Dependencies
+
+```bash
+brew install yt-dlp ffmpeg
+```
 
 ## 📁 Project Structure
 
