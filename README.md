@@ -8,7 +8,8 @@
 
 A powerful macOS app to download, slow down, and reverse YouTube Shorts with ease.
 
-<img src="Screenshot 2026-01-29 at 5.49.31 PM.png" alt="YouTubeShortsTool Screenshot" width="600"/>
+<img width="1920" height="1080" alt="Screenshot 2026-01-29 at 5 49 31 PM" src="https://github.com/user-attachments/assets/49253f17-050e-4489-9ff6-4452c241c886" />
+
 
 </div>
 
